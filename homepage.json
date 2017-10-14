@@ -7,5 +7,11 @@
 		"Titre H3",
 		"SPAN",
 		"re Page"
-	]
+	],
+	"Titre": [
+		"Titre H1",
+		"Titre H2",
+		"Titre H3"
+	],
+	"span": "SPAN"
 }
