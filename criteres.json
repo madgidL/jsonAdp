@@ -1,14 +1,14 @@
 {
 	"titre-criteres": [
-		"titre 1",
-		"Rapidité",
-		"Professionnalisme",
-		"Satisfaction"
+		"Astro",
+		"Girl",
+		"Vegeta",
+		"Goku"
 	],
 	"image-criteres": [
-		"https://cdn.rawgit.com/madgidL/jsonAdp/f7e9952255ca53a087751e8774e49d2f7f775ac1/images/e8b2592739b10dade22723492c3ed97a--anime-y-manga-manga-boy.jpg",
-		"dist/img/lp2_new01_home_03.png",
-		"dist/img/lp2_new01_home_05.png",
-		"dist/img/lp2_new01_home_08.png"
+		"https://cdn.rawgit.com/madgidL/jsonAdp/4d40736df6fa67dd504d1b2801111fea20c30019/images/astro_boy.jpg",
+		"https://cdn.rawgit.com/madgidL/jsonAdp/b371234838930a5715c201fe12c1e5395167b4ac/images/file.png",
+		"https://cdn.rawgit.com/madgidL/jsonAdp/3189e71b7b3dae6f7f1dd06408019b6955f36698/images/file.png",
+		"https://cdn.rawgit.com/madgidL/jsonAdp/3718c72ecee2964b1b0de39502ac35278baf5572/images/100x100-ct.jpg"
 	]
 }
