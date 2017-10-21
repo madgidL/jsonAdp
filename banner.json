@@ -1,3 +1,8 @@
 {
-	"description": "Texte de la banniere"
+	"description": "Texte de la banniere",
+	"banner-titre": [
+		{
+			"description": "\n                        Nos équipes de Serruriers\n                        se déplacent et interviennent 7 jours sur 7\n                    "
+		}
+	]
 }
