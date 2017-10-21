@@ -12,6 +12,7 @@
 		"https://cdn.rawgit.com/madgidL/jsonAdp/3718c72ecee2964b1b0de39502ac35278baf5572/images/100x100-ct.jpg"
 	],
 	"bloc-criteres": [
+		{},
 		{
 			"titre-criteres-1": "Efficacité",
 			"image-criteres-1": "dist/img/lp2_new01_home_11.png",
