@@ -10,5 +10,17 @@
 		"https://cdn.rawgit.com/madgidL/jsonAdp/b371234838930a5715c201fe12c1e5395167b4ac/images/file.png",
 		"https://cdn.rawgit.com/madgidL/jsonAdp/3189e71b7b3dae6f7f1dd06408019b6955f36698/images/file.png",
 		"https://cdn.rawgit.com/madgidL/jsonAdp/3718c72ecee2964b1b0de39502ac35278baf5572/images/100x100-ct.jpg"
+	],
+	"bloc-criteres": [
+		{
+			"titre-criteres-1": "Efficacité",
+			"image-criteres-1": "dist/img/lp2_new01_home_11.png",
+			"titre-criteres-2": "Rapidité",
+			"image-criteres-2": "dist/img/lp2_new01_home_03.png",
+			"titre-criteres-3": "Professionnalisme",
+			"image-criteres-3": "dist/img/lp2_new01_home_05.png",
+			"titre-criteres-4": "Satisfaction",
+			"image-criteres-4": "dist/img/lp2_new01_home_08.png"
+		}
 	]
 }
